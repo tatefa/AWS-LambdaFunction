@@ -1,0 +1,18 @@
+Task1: Write an AWS Lambda function that adds two numbers and returns the result.
+
+Task2:Code an AWS Lambda function to store a document or PDF file in an S3 bucket.
+
+Here are the steps to execute the AWS Lambda functions  created:
+
+1. Using the AWS Management Console
+Navigate to the Lambda Console:
+
+Go to the AWS Management Console and select the Lambda service.
+Select Your Function:
+
+Click on the function you want to execute (e.g., the function that adds two numbers or the one that uploads a file to S3).
+Test the Function:
+
+Click on the "Test" tab.
+Create a new test event by providing the necessary input JSON (as shown in the examples).
+Click "Test" to execute the function and view the results.
